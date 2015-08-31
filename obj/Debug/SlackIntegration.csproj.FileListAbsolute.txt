@@ -1,0 +1,16 @@
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\bin\Debug\SlackIntegration.dll
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\bin\Debug\SlackIntegration.pdb
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\bin\Debug\Newtonsoft.Json.pdb
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\obj\Debug\SlackIntegration.dll
+C:\projects\gitrepos\ecommerceframework\ThirdPartyIntegration\SlackIntegration\obj\Debug\SlackIntegration.pdb
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Debug\SlackIntegration.dll
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Debug\SlackIntegration.pdb
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mparks\DotNetProjects\SlackIntegration\obj\Debug\SlackIntegration.csprojResolveAssemblyReference.cache
+C:\Users\mparks\DotNetProjects\SlackIntegration\obj\Debug\SlackIntegration.dll
+C:\Users\mparks\DotNetProjects\SlackIntegration\obj\Debug\SlackIntegration.pdb

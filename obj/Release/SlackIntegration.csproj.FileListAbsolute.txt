@@ -1,0 +1,7 @@
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Release\SlackIntegration.dll
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Release\SlackIntegration.pdb
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Release\Newtonsoft.Json.dll
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Release\Newtonsoft.Json.pdb
+C:\Users\mparks\DotNetProjects\SlackIntegration\bin\Release\Newtonsoft.Json.xml
+C:\Users\mparks\DotNetProjects\SlackIntegration\obj\Release\SlackIntegration.dll
+C:\Users\mparks\DotNetProjects\SlackIntegration\obj\Release\SlackIntegration.pdb
