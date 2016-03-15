@@ -8,4 +8,4 @@
 
 ### How do I get set up? ###
 
-* [Download the latest binary release here](/releases)
+* [Download the latest binary release here](https://github.com/parksjr/DOTNET-Slack-Integration/releases)
