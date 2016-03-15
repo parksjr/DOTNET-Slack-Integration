@@ -8,8 +8,4 @@
 
 ### How do I get set up? ###
 
-* [Download the latest binary release here](https://bitbucket.org/onp/slack-integration/downloads)
-
-### Who do I talk to? ###
-
-* Mike Parks - mikep@onlynaturalpet.com
+* [Download the latest binary release here](/releases)
